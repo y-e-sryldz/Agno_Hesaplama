@@ -1,4 +1,4 @@
-# ortalama_hesap
+# AGNO HESAPLA
 
 A new Flutter project.
 
